@@ -17,6 +17,7 @@
 |chmod                     | Modify file or directory permissions.
 |chown                     | Alter the owner of a file or directory.
 |netstat                   | Display network connections, routing tables, and network statistics.
+|ifconfig                  | Configure a network interface. Display the status of the currently active interfaces.
 |ssh                       | Establish a secure connection to a remote server.
 |ping                      | Assess network connectivity between two devices.
 |su                        | Switch to a different user account.
@@ -28,3 +29,4 @@
 |apt                       | Manage packages on Ubuntu systems by installing, updating, or removing them.
 |zip                       | Formulate a zip file.
 |unzip                     | Extract the contents of a zip archive.
+
