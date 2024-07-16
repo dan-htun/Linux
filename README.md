@@ -1,8 +1,10 @@
-# My YouTube video "SSH into VirtualBox and File Transfer with SCP- Linux"
+# Below is my YouTube video for complete tutorial
 
 [![Watch the video](https://img.youtube.com/vi/Ft_jkJ9VjhI/maxresdefault.jpg)](https://youtu.be/Ft_jkJ9VjhI)
 
 
+# Summary 
+Firstly, we establish SSH access to log into an Ubuntu Virtual Machine hosted on VirtualBox from a host machine. The second part involves transferring files and folders from the host computer to the Virtual Machine using the SCP command. This practice session also includes a brief video tutorial to refresh essential Linux commands.
 
 # Linux Commands Cheatsheet
 
